@@ -1,14 +1,7 @@
 # report-AIMO3
 
-Created: November 30, 2025 12:35 PM
-Tags: assig
-Date: Nov 27 → Dec 2
-
-![2025-12-01 04.21.47.jpg](report-AIMO3/2025-12-01_04.21.47.jpg)
-
-[replplusplus-plus-china.ipynb](report-AIMO3/replplusplus-plus-china.ipynb)
-
-[https://www.kaggle.com/code/nurikw3/streaming-inference](https://www.kaggle.com/code/nurikw3/streaming-inference)
+![2025-12-01 04.21.47.jpg](2025-12-01_04.21.47.jpg)
+presentation: ![SAIMO_compressed.pdf](SAIMO_compressed.pdf)
 
 # Prompt Eng. via Verifying ([https://www.kaggle.com/code/nurikw3/streaming-inference](https://www.kaggle.com/code/nurikw3/streaming-inference)) how it works?
 
