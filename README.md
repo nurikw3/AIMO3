@@ -1,6 +1,6 @@
 # report-AIMO3
 
-![2025-12-01 04.21.47.jpg](2025-12-01_04.21.47.jpg)
+![demo.jpg](demo.jpg)
 presentation: ![SAIMO_compressed.pdf](SAIMO_compressed.pdf)
 
 # Prompt Eng. via Verifying ([https://www.kaggle.com/code/nurikw3/streaming-inference](https://www.kaggle.com/code/nurikw3/streaming-inference)) how it works?
